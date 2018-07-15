@@ -1,7 +1,6 @@
 
 import React, { Component } from 'react';
 import { AppRegistry,View,Text,FlatList,StyleSheet } from 'react-native';
-
 export default class Bananas extends Component {
   render() {
     return (
